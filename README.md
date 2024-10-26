@@ -1,0 +1,1 @@
+<p>image change after 2 sec and stop after 16 sec</p> 
