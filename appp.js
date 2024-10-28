@@ -4,8 +4,8 @@ let hed=document.querySelector('h1')
 let para=document.querySelector('p')
 console.log(hed)
 
-para.style.cssText="`color:yellow;background-color:pink;font-size:25px;"
-hed.style.cssText="color:red;background-color:yellow;font-size:30px"
+para.style.cssText="font-size: 22px;color: magenta;font-family: cursive;"
+hed.style.cssText="font-size: 30px;color: rgb(0, 128, 255);font-family: cursive;"
 
 
 
